@@ -19,4 +19,4 @@ eureka:
 #  instance:
 #    hostname: productname
 env:
- dev
+ devvvv
