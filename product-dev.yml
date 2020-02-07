@@ -2,7 +2,7 @@ spring:
   application:
     name: product
   datasource:
-    url: jdbc:mysql://111.230.169.249:3307/springcloud
+    url: jdbc:mysql://111.230.169.249:3307/springcloud?serverTimezone=UTC
     password: 123456
     username: root
     driver-class-name: com.mysql.jdbc.Driver
