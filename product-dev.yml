@@ -20,3 +20,6 @@ eureka:
 #    hostname: productname
 env:
  dkdk
+girl:
+ name: lili
+ age: 23
