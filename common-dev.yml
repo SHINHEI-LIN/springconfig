@@ -8,4 +8,4 @@ eureka:
      defaultZone: http://localhost:8080/eureka/
 girl:
  name: fangfang
- age: 23
+ age: 24
